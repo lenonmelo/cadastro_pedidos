@@ -1,7 +1,7 @@
 # Projeto do Lenon Platenetti de Melo
 
 # Objetivo
-
+O objetivo é realizar a gestão de pedidos de uma maneira simples e eficiente.
 
 # Desenvolvimento
 Para o desenvolvimento da aplicação foram utilizadas as seguintes tecnologias web.
