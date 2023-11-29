@@ -27,7 +27,7 @@ Após concluir as instalações necessárias, siga estas etapas:
 * Acesse a pasta principal do sistema através do terminal.
 * Execute o seguinte comando para instalar os pacotes necessários;
 
-      php composer install
+      composer install
 
 * Faça uma cópia do arquivo ".env.example" encontrado na estrutura principal do sistema e altere o nome para ".env".
 * Nas configurações do banco de dados, inclua as informações referentes ao banco que será utilizado, conforme indicado abaixo:
